@@ -77,7 +77,7 @@ void setup() {
   // TBD
 
   //  Notifications!!!
-  Serial.println("Mini CNC Plotter alive and kicking!");
+  Serial.println("Plotter active");
   Serial.print("X range is from "); 
   Serial.print(Xmin); 
   Serial.print(" to "); 
